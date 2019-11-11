@@ -1,5 +1,5 @@
 ---
 permalink: /
-title: foobar
+title: Home
 layout: home
 ---
