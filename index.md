@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Index
+title: Home
 layout: default
 ---
 
