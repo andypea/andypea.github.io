@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: Home
-layout: default
+layout: home
 ---
 
 # {{ page.title }}
